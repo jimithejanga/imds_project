@@ -94,3 +94,5 @@ cap.release()
 cv2.destroyAllWindows()
 
 # this used haskell  very poor needs a lot of lighting or maybe a good camera#
+# we will review and reuse the flow of this code
+#head detection -> eyes then -> classify gaze
